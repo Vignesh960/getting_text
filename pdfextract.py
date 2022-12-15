@@ -44,3 +44,4 @@ def getimage():
             with open(image.name, "wb") as fp:
                 fp.write(image.data)
     print("images extrated from the {}".format(file_name))
+
