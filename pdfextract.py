@@ -23,20 +23,16 @@ def convert_to_img():
     for page in file:
         pix=page.get_pixmap()
         pix.save("page-%i.png" % page.number)
-def getimg_text():
-    file=fitz.open("pdf.pdf")
-    # for pageNumber,page in enumerate(file.pages(),start=1):
-    #     text=page.getText()
-    #     txt=open("report_page_{}.txt",'a'.format(pageNumber))
-    #     txt.writelines(text)
-    #     txt.close()
+#not working
+# def getimg_text():
+#     file=fitz.open("pdf.pdf")
+#     for pageNumber,page in enumerate(file.pages(),start=1):
+#         text=page.getText()
+#         txt=open("report_page_{}.txt",'a'.format(pageNumber))
+#         txt.writelines(text)
+#         txt.close()
 
-    for imgNumber,img in enumerate(file.pages(),start=1):
-        xref=img[0]
-        pix=fitz.Pixmap(file,xref)
-        if pix.n>4:
-            pix=fitz.Pixmap(fitz.csRGB,pix)
-        pix._writeIMG("image_page_{}.img".format(imgNumber))
+
 
 from PyPDF2 import PdfReader
 
