@@ -1,0 +1,28 @@
+﻿Manhole_Id,Wire_Type,Duct_Bank_Id,Duct_Id,Secondary Wires Type,Service Type,"No.Conductors","Ties with Cablesin Cell",Limiter,Amp Reading,"Cable TempReading","Cable/JointCondition",Fireproofing
+779390-566883,Secondary Wire,08W02X04,01T01W,Secondary Wire 4 / 0 BC,Main,,No,No,,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,01T01W,Secondary Wire 250 RN,Main,1,No,No,31,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,01T01W,Secondary Wire 250 RN,Main,1,No,No,39,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,01T01W,Secondary Wire 250 RN,Main,1,No,No,34,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,01T02W,Secondary Wire 4 / 0 BC,Main,,No,No,,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,01T02W,Secondary Wire 250 RN,Main,1,No,No,31,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,01T02W,Secondary Wire 250 RN,Main,1,No,No,38,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,01T02W,Secondary Wire 250 RN,Main,1,No,No,33,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T01W,Secondary Wire 4 / 0 BC,Main,,No,No,,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T01W,Secondary Wire 250 RN,Main,1,No,No,36,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T01W,Secondary Wire 250 RN,Main,1,No,No,39,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T01W,Secondary Wire 250 RN,Main,1,No,No,30,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T02W,Secondary Wire 4 / 0 BC,Main,,No,No,,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T02W,Secondary Wire 250 RN,Main,1,No,No,29,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T02W,Secondary Wire 250 RN,Main,1,No,No,36,65,Cable Good,No
+779390-566883,Secondary Wire,08W02X04,02T02W,Secondary Wire 250 RN,Main,1,No,No,38,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,01T01W,Secondary Wire 500 RN,Main,1,No,No,33,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,01T01W,Secondary Wire 500 RN,Main,1,No,No,39,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,01T01W,Secondary Wire 500 RN,Main,1,No,No,28,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,01T02W,Secondary Wire 500 BC,Main,,No,No,,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,02T01W,Secondary Wire 4 / 0 BC,Main,,No,No,,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,02T01W,Secondary Wire 500 RN,Main,1,No,No,25,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,02T01W,Secondary Wire 500 RN,Main,1,No,No,30,65,Cable Good,No
+779390-566883,Secondary Wire,04W02X02,02T01W,Secondary Wire 500 RN,Main,1,No,No,38,65,Cable Good,No
+779390-566883,Secondary Wire,01W,01T01W,Secondary Wire #2 RN,Service,1,Yes,No,2,65,Cable Good,No
+779390-566883,Secondary Wire,01W,01T01W,Secondary Wire #2 RN,Service,1,Yes,No,2,65,Cable Good,No
+779390-566883,Secondary Wire,01W,01T01W,Secondary Wire #2 BC,Service,,Yes,No,,65,Cable Good,No

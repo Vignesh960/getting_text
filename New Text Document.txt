@@ -1,0 +1,51 @@
+CREATE TABLE IF NOT EXISTS training.manhole
+
+(
+
+    "Manhole_Id" text COLLATE pg_catalog."default" NOT NULL,
+
+    "Item Name" text COLLATE pg_catalog."default",
+
+    "Sequence" integer,
+
+    "Question" text COLLATE pg_catalog."default",
+
+    "Primary Answer" text COLLATE pg_catalog."default",
+
+    "Secondary Answer" text COLLATE pg_catalog."default",
+
+    "Answer Priority" text COLLATE pg_catalog."default"
+
+)
+
+CREATE TABLE IF NOT EXISTS training.southwall_secondary
+
+(
+
+    "Manhole_Id" text COLLATE pg_catalog."default",
+
+    "Wire_Type" text COLLATE pg_catalog."default",
+
+    "Duct_Bank_Id" text COLLATE pg_catalog."default",
+
+    "Duct_Id" text COLLATE pg_catalog."default",
+
+    "Secondary Wires Type" text COLLATE pg_catalog."default",
+
+    "Service Type" text COLLATE pg_catalog."default",
+
+    "No. Conductors" integer,
+
+   "Ties with Cables" text COLLATE pg_catalog."default",
+
+    "Limiter" text COLLATE pg_catalog."default",
+
+    "Amp Reading" integer,
+
+    "Cable Temp Reading" integer,
+
+    "Cable/Joint Condition" text COLLATE pg_catalog."default",
+
+    "Fireproofing" text COLLATE pg_catalog."default"
+
+)
