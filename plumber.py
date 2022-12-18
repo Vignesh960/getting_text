@@ -26,10 +26,23 @@ def pdfcdata():
                 print(title_list)
             if (row.startswith("Item")):
                 #prints in table header format
-                print(tabulate("",headers=["Manhole_ID"]+row.split()[0:-1]))
-                #print(row.split()[0:-1])
+
+                print(tabulate("",headers=["Manhole_ID"]+row.split()[0:-1],tablefmt="github"))
+                # set(row.split()[0:-1])
+                print(row.split()[0:-1])
+
                 for i in title_list:
-                    print(i,end=" ")
+                    print(i,end="\n")
+    new_vend_re = re.compile(r'^\d{1,2} [A-Z].*')
+    qustiontext=[]
+    for line in text.split('\n'):
+        if new_vend_re.match(line):
+            qustiontext.append(line.split(","))
+            for j in qustiontext:
+                title_list.append(j)
+
+
+    print(title_list)
 
 
 pdfcdata()

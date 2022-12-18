@@ -31,6 +31,7 @@ import pandas as pd
 import io
 
 import csv
+#read structured data
 def read_csv(filename):
     mylist=[]
     with open(filename) as numbers:

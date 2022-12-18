@@ -1,0 +1,138 @@
+"Manhole Inspection Report with GraphicsGrid Number :779390-566883Selection Criteria:No filter applied",,,,,
+"Inspection Date : 06/11/2019Location :Nst @  37th St NeWork Order # :1582154313Inspector :PAIGETJurisdiction :NWVehicle ID :Manhole Type : PRIMARYDate Uploaded : 5/28/2009 4:14:08 PM",,,,,
+Item Name,Sequence,Question,Primary Answer,Secondary Answer,Answer Priority
+"",,,,,
+Manhole,,,,,
+"",1,Is the manhole available for inspection?,Yes,,None
+"",2,"What is combustible gas percentage?  If gaspercentage is 1%-5%, ventilate the hole to 0%,then proceed with inspection.  If gas percentageis greater than 5%, DO NOT ENTER THEMANHOLE.",0%,,None
+"",3,Voltage on the cover,No,,None
+"",4,Manhole type,Sidewalk,,
+"",5,Cover condition,Good,,None
+"",6,Cover size,28 inch,,
+"",7,Cover type,Single Action Vented,,
+"",8,Free of debris?,Yes,,None
+"",9,Free of water/mud?,Yes,,None
+"",10,Manhole condition,Good,,None
+"",12,Ambient air temperature outside,70 degrees,,None
+"",13,Roof type,Recessed,,
+"",14,Sump pump present,No,,None
+"",15,Sewer connection present?,No,,None
+"",16,Ceiling to surface,18 inches,,
+"",17,Depth clear,7 feet,,None
+"",18,Is the manhole free of evidence of rodents?,Yes,,None
+"",19,Is Asbestos present in the manhole?,No,,None
+North WallA NORTH WALL
+08W02X04 Duct Bank
+Secondary Wire,01T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,31,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,39,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,34,,,65,,Cable Good,,,No,
+Secondary Wire,01T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,31,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,38,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,33,,,65,,Cable Good,,,No,
+Secondary Wire,02T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,36,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,39,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,30,,,65,,Cable Good,,,No,
+Secondary Wire,02T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,29,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,36,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,38,,,65,,Cable Good,,,No,
+Primary Wire,04T01W,,Primary Wires Type,,,,,Feeder No,,No. Conductors,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,,,,,,
+"",,,Primary Wire #2 RL,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire #2 RL,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire #2 RL,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire #2 BC,,,,,No Tag,,,,65,,Cable Good,,,No,,,,,,
+04W02X02 Duct Bank,,,,,,,,,,,,,,,,,,,,,,,
+Secondary Wire,01T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 500 RN,,,Main,,1,,No,,No,,33,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 500 RN,,,Main,,1,,No,,No,,39,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 500 RN,,,Main,,1,,No,,No,,28,,,65,,Cable Good,,,No,
+Secondary Wire,01T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 500 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+Secondary Wire,02T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",Secondary Wire 4 / 0 BC,Main,,No,No,,65,Cable Good,No
+"",Secondary Wire 500 RN,Main,1,No,No,25,65,Cable Good,No
+"",Secondary Wire 500 RN,Main,1,No,No,30,65,Cable Good,No
+"",Secondary Wire 500 RN,Main,1,No,No,38,65,Cable Good,No
+01W Duct Bank,,,,,,,,,
+"",,,,No.,Ties with Cables,,,Cable Temp,Cable/Joint,
+Secondary Wire,01T01W,Secondary Wires Type,Service Type,,,Limiter,Amp Reading,,,Fireproofing
+"",,,,Conductors,in Cell,,,Reading,Condition,
+"",,Secondary Wire #2 RN,Service,1,Yes,No,2,65,Cable Good,No
+"",,Secondary Wire #2 RN,Service,1,Yes,No,2,65,Cable Good,No
+"",,Secondary Wire #2 BC,Service,,Yes,No,,65,Cable Good,No
+East WallB EAST WALL
+10W02X05 Duct Bank
+Primary Wire,01T02W,,Primary Wires Type,,,,,Feeder No,,No. Conductors,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,,,,,,
+"",,,Primary Wire 1 / 0 EPR,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire 1 / 0 EPR,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire 1 / 0 EPR,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+Secondary Wire,02T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+Secondary Wire 4 / 0 BC,,,,,,,,,,,,,,,,,,,,,,,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,32,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,39,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,37,,,65,,Cable Good,,,No,
+Secondary Wire,02T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,29,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,36,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,37,,,65,,Cable Good,,,No,
+Secondary Wire,03T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,39,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,30,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,32,,,65,,Cable Good,,,No,
+Secondary Wire,03T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,32,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,35,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,39,,,65,,Cable Good,,,No,
+Secondary Wire,04T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,34,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,28,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,37,,,65,,Cable Good,,,No,
+Secondary Wire,04T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,33,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,30,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,38,,,65,,Cable Good,,,No,
+Secondary Wire,05T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+Primary Wire,05T02W,,Primary Wires Type,,,,,Feeder No,,No. Conductors,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,,,,,,
+"",,,Primary Wire #2 RL,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire #2 RL,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire #2 RL,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire #2 BC,,,,,No Tag,,,,65,,Cable Good,,,No,,,,,,
+South WallC SOUTH WALL,,,,,,,,,,,,,,,,,,,,,,,
+04W02X02 Duct Bank
+Secondary Wire,01T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,38,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,35,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,31,,,65,,Cable Good,,,No,
+Primary Wire,02T01W,,Primary Wires Type,,,,,Feeder No,,No. Conductors,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,,,,,,
+"",,,Primary Wire 1 / 0 EPR,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+"",,,Primary Wire 1 / 0 EPR,,,,,No Tag,,1,,65,,Cable Good,,,No,,,,,,
+Primary Wire 1 / 0 EPR,,,,,,,,,,,,,,,,,,,,,,,
+"",,,,No.,Ties with Cables,,,Cable Temp,Cable/Joint,
+Secondary Wire,01T01W,Secondary Wires Type,Service Type,,,Limiter,Amp Reading,,,Fireproofing
+"",,,,Conductors,in Cell,,,Reading,Condition,
+"",,Secondary Wire 4 / 0 BC,Main,,No,No,,65,Cable Good,No
+"",,Secondary Wire 250 RN,Main,1,No,No,36,65,Cable Good,No
+"",,Secondary Wire 250 RN,Main,1,No,No,29,65,,No
+"",,Secondary Wire 250 RN,Main,1,No,No,38,65,Cable Good,No
+Secondary Wire,01T02W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,30,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,31,,,30,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,27,,,30,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,36,,,30,,Cable Good,,,No,
+Secondary Wire,02T01W,,Secondary Wires Type,,,Service Type,,"No.Conductors",,"Ties with Cablesin Cell",,Limiter,,Amp Reading,,,"Cable TempReading",,"Cable/JointCondition",,,Fireproofing,
+"",,,Secondary Wire 4 / 0 BC,,,Main,,,,No,,No,,,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,38,,,65,,Cable Good,,,No,
+"",,,Secondary Wire 250 RN,,,Main,,1,,No,,No,,31,,,65,,Cable Good,,,No,
+Secondary Wire 250 RN,,,,,,,,,,,,,,,,,,,,,,,

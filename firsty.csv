@@ -1,0 +1,12 @@
+man_hole_id,Item Name,Sequence,Question,Primary Answer,Secondary Answer,Answer Priority
+5464666,Manhole,,,,,
+5464666,Manhole,1,Is the manhole available for inspection?,Yes,,None
+5464666,Manhole,2,"What is combustible gas percentage?  If gaspercentage is 1%-5%, ventilate the hole to 0%,then proceed with inspection.  If gas percentageis greater than 5%, DO NOT ENTER THEMANHOLE.",0%,,None
+5464666,Manhole,3,Voltage on the cover,No,,None
+5464666,Manhole,4,Manhole type,Sidewalk,,
+5464666,Manhole,5,Cover condition,Good,,None
+5464666,Manhole,6,Cover size,28 inch,,
+5464666,Manhole,7,Cover type,Single Action Vented,,
+5464666,Manhole,8,Free of debris?,Yes,,None
+5464666,Manhole,9,Free of water/mud?,Yes,,None
+5464666,Manhole,10,Manhole condition,Good,,None
