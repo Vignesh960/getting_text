@@ -1,0 +1,11 @@
+Manhole_ID,Item Name,Sequence,Question,Primary Answer,Secondary Answer,Answer Priority
+779390-566883,Manhole,1,Is the manhole available for inspection?,Yes,,None
+779390-566883,Manhole,2,"What is combustible gas percentage?  If gaspercentage is 1%-5%, ventilate the hole to 0%,then proceed with inspection.  If gas percentageis greater than 5%, DO NOT ENTER THEMANHOLE.",0%,,None
+779390-566883,Manhole,3,Voltage on the cover,No,,None
+779390-566883,Manhole,4,Manhole type,Sidewalk,,
+779390-566883,Manhole,5,Cover condition,Good,,None
+779390-566883,Manhole,6,Cover size,28 inch,,
+779390-566883,Manhole,7,Cover type,Single Action Vented,,
+779390-566883,Manhole,8,Free of debris?,Yes,,None
+779390-566883,Manhole,9,Free of water/mud?,Yes,,None
+779390-566883,Manhole,10,Manhole condition,Good,,None
