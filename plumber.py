@@ -6,6 +6,7 @@ def pdfcdata():
     title_list=[]
     with pdfplumber.open("pdf.pdf") as pdf:
         first_page = pdf.pages[0]
+
         text=first_page.extract_text()
         first_page.extract_table()
         #printing all the data
